@@ -16,3 +16,11 @@ Radxa Jack is a low-cost cybersecurity hardware platform designed for authorized
 
 \### This is a test for GitHub assignment
 
+
+
+adding information from new branch.
+
+
+
+adding second test from new branch.
+
